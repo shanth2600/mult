@@ -1,0 +1,8 @@
+{
+    "name": "shanth2600/multiplier",
+    "autoload": {
+        "psr-4": {
+            "Shanth2600\\Multiplier\\": "src/"
+        }
+    }
+}
